@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+-[x]I am avery great **athlete**.
+-[x]I am *very good* at the ***sports*** I play
+-[x]I am ***very fast and can jump very high***
