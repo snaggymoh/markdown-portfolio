@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+[x] I like to play basketball
+
+[x] I like vedio games 
+
+[x] I also like food
