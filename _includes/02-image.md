@@ -1,2 +1,2 @@
 <h1> A picture!!
-  <h2><img src="https://avatars1.githubusercontent.com/u/76170121?s=60&amp;v=4" alt="@snaggymoh"/>
+ ([image of my profile picture](https://avatars3.githubusercontent.com/u/76170121?s=400&v=4))
